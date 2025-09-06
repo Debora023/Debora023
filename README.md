@@ -1,9 +1,9 @@
 <h1 align="center">Olá sou a programadora Debora 👋</h1>
 
--- Faço Técnico em informática
--- Procuro um estágio em analista de dados avançado (Python)
--- contate-me com o e-mail: ds4134092@gmail.com
--- Faço coisas de maneira "Pythonic"
+<h1>Faço Técnico em informática</h1> 
+<h1>Procuro um estágio em analista de dados avançado (Python)</h1> 
+<h1>contate-me com o e-mail: ds4134092@gmail.com</h1> 
+<h1>Faço coisas de maneira "Pythonic"</h1> 
 
 
 
