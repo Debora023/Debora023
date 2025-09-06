@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center">Olá sou a programadora Debora 👋</h1>
+
+-- Faço Técnico em informática
+-- Procuro um estágio em analista de dados avançado (Python)
+-- contate-me com o e-mail: ds4134092@gmail.com
+-- Faço coisas de maneira "Pythonic"
+
+
 
 <!--
 **Debora023/Debora023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
